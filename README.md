@@ -10,34 +10,37 @@ This was a final group project for Data Wrangling, taken spring 2022.
 - Acknowledgements
 
 ## General Info
-- Digital Portfolio - in progress
-- Outlet for me to show projects, skills, and passions
-- Targeted primarily to job recruiters
+Our team was asked to merge two datasets, one of which we had to obtain by scraping a site. Our team used a dataset from kaggle.com and scraped data from yahoofinance.com  to answer the overall arching question of "How does the release of movie and tv shows on the Disney+ platform affect The Walt Disney Company stock price?"
+
 
 ## Features
-- Home: Intro to site
-- About: Updated information about school, employment, and summer plans
-- Contact: Links to Linkedin and Github profiles
-- Coming Soon: space for projects and skills in progress 
+- fully merged dataset
+- various graphs and plots to visualize findings
 
 ## Setup
--  Static Site made on Visual Studio Code
--  Set up with Microsoft Azure 
--  Domain set up with namecheap.com
--  Site traffic is tracked with analytics.google.com
+- downloaded and cleaned csv from Kagge.com, read into r, and renamed values
+- scraped yahoo finance, read into r, converted to dataframe, and renamed values
+- dealt with missing values
+- merged data
+- analyzed and visualized data
 
 ## Project Status
-in progress
+complete
 
 ## Room for Improvement
-- Add to 'coming soon' page with internship updates and additional projects
-- Change site background 
-- Change color scheme 
+- if data was available, could see how removing tv shows and movies from Disney+ affect stock price 
 
 ## Acknowledgements
 Completed this project with: 
 - Cassidy Brunscheon
 - Kayla Van Langen 
+
+Kaggle Dataset
+- https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
+
+Scraping Yahoo Finance
+- https://www.codingfinance.com/post/2018-03-27-download-price/
+
 
 
 
