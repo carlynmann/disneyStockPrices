@@ -28,7 +28,7 @@ Our team was asked to merge two datasets, one of which we had to obtain by scrap
 complete
 
 ## Room for Improvement
-- if data was available, could see how removing tv shows and movies from Disney+ affect stock price 
+- if future data became available, could see how removing tv shows and movies from Disney+ affect stock price 
 
 ## Acknowledgements
 Completed this project with: 
