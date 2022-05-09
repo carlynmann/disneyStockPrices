@@ -1,2 +1,2 @@
-# disneyStockPrices_finalProject
+# disneyStockPrices
 Final Project for Data Wrangling 
