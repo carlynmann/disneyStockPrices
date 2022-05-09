@@ -3,14 +3,6 @@
 # group 2 
 
 rm(list=ls()) 
-#install.packages('usethis')
-library(usethis)
-use_git_config(user.name = "Carlyn Mann", user.email = "carlyn-mann@uiowa.edu")
-git_vaccinate()
-create_github_token()
-gitcreds::gitcreds_set()
-usethis::git_sitrep()
-
 
 library(tidyquant)  
 library(dplyr) 
